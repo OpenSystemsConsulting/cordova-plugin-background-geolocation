@@ -8,6 +8,9 @@
 
  1. new method isLocationEnabled
  */
+/*
+ OSC - fork of https://github.com/mauron85/cordova-plugin-background-geolocation
+ */
 
 var exec = require('cordova/exec');
 var emptyFnc = function(){};
